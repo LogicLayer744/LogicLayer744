@@ -1,6 +1,6 @@
 # 👨‍💻 **Welcome to My GitHub Profile!**
 
-<img src="https://github.com/LogicLayer744/LogicLayer/blob/main/shahzaib.jpg?raw=true" width="300"/>
+<img src="https://github.com/LogicLayer744/LogicLayer744/blob/main/shahzaib.jpg?raw=true" width="300"/>
 
 Hello, I'm **Shahzaib Aorangzaib**, a passionate **Full-Stack Developer** & **Creative Designer** from **Pakistan**.  
 I specialize in building modern, scalable web applications using **Angular**, **TypeScript**, **ASP.NET/C#**, and more.
