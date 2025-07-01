@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨‍💻 **Welcome to My GitHub Profile!**
 
-<!--
-**LogicLayer744/LogicLayer744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/LogicLayer744/LogicLayer/blob/main/shahzaib.jpg?raw=true" width="300"/>
 
-Here are some ideas to get you started:
+Hello, I'm **Shahzaib Aorangzaib**, a passionate **Full-Stack Developer** & **Creative Designer** from **Pakistan**.  
+I specialize in building modern, scalable web applications using **Angular**, **TypeScript**, **ASP.NET/C#**, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 **Technologies I Use:**
+
+- **Frontend**: Angular, HTML, CSS, JavaScript, TypeScript  
+- **Backend**: Node.js, ASP.NET/C#, Php
+- **Databases**: MySQL, SQL Server  
+- **Version Control**: Git, GitHub, GitLab
+
+---
+
+## 🌱 **Currently Learning**  
+I am actively learning:  
+
+- **Mobile Application Using Flutter**
+
+---
+
+## 📫 **Get in Touch**  
+You can contact me for collaboration or any inquiries:  
+
+- Email:                shahzaib.logiclayer@gmail.com
+- Whatsapp:            (https://wa.me/923316284012)
+- Facbook:             (https://www.facebook.com/profile.php?id=61578160460725)
+- Instagram:           (https://www.instagram.com/shahzaib.logiclayer/)
+
+---
+
+## 🛠️ **Let's Collaborate!**  
+Feel free to open an issue or a pull request in any of my repositories if you want to contribute or collaborate on something exciting!
+
+
+---
+
+> “Strive for progress, not perfection.” – Shahzaib Aorangzaib
